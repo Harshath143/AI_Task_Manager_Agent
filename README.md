@@ -82,9 +82,7 @@ Task Manager > ADD We need to implement the new login feature immediately.
 ├── core/                   # Utilities and Models
 └── data/                  # FAISS index storage
 ```
+## 📺 Demo
 
-## Video Demo and Explanation
-
-```
-- Youtube LInk `https://www.youtube.com/watch?v=RfBLD53Famw`
-```
+Watch a short demo video for an overview and walkthrough:
+https://www.youtube.com/watch?v=RfBLD53Famw
